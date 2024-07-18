@@ -1,0 +1,5 @@
+pyannote.audio
+pyannote_whisper
+pywhispercpp
+os
+pydub
